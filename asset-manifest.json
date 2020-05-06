@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/adres%20strony/static/css/main.8df70aee.chunk.css",
-    "main.js": "/adres%20strony/static/js/main.4c5f0357.chunk.js",
-    "main.js.map": "/adres%20strony/static/js/main.4c5f0357.chunk.js.map",
-    "runtime-main.js": "/adres%20strony/static/js/runtime-main.5f5f9ffc.js",
-    "runtime-main.js.map": "/adres%20strony/static/js/runtime-main.5f5f9ffc.js.map",
-    "static/js/2.7e9c049e.chunk.js": "/adres%20strony/static/js/2.7e9c049e.chunk.js",
-    "static/js/2.7e9c049e.chunk.js.map": "/adres%20strony/static/js/2.7e9c049e.chunk.js.map",
-    "index.html": "/adres%20strony/index.html",
-    "precache-manifest.f897dfb20b0d359815938b6f5d3f3210.js": "/adres%20strony/precache-manifest.f897dfb20b0d359815938b6f5d3f3210.js",
-    "service-worker.js": "/adres%20strony/service-worker.js",
-    "static/css/main.8df70aee.chunk.css.map": "/adres%20strony/static/css/main.8df70aee.chunk.css.map",
-    "static/js/2.7e9c049e.chunk.js.LICENSE.txt": "/adres%20strony/static/js/2.7e9c049e.chunk.js.LICENSE.txt"
+    "main.css": "/Pizzeria-App-in-React/static/css/main.8df70aee.chunk.css",
+    "main.js": "/Pizzeria-App-in-React/static/js/main.4c5f0357.chunk.js",
+    "main.js.map": "/Pizzeria-App-in-React/static/js/main.4c5f0357.chunk.js.map",
+    "runtime-main.js": "/Pizzeria-App-in-React/static/js/runtime-main.c033a0ca.js",
+    "runtime-main.js.map": "/Pizzeria-App-in-React/static/js/runtime-main.c033a0ca.js.map",
+    "static/js/2.7e9c049e.chunk.js": "/Pizzeria-App-in-React/static/js/2.7e9c049e.chunk.js",
+    "static/js/2.7e9c049e.chunk.js.map": "/Pizzeria-App-in-React/static/js/2.7e9c049e.chunk.js.map",
+    "index.html": "/Pizzeria-App-in-React/index.html",
+    "precache-manifest.7df7da9d4f4ceca0ef9d270de2cccb41.js": "/Pizzeria-App-in-React/precache-manifest.7df7da9d4f4ceca0ef9d270de2cccb41.js",
+    "service-worker.js": "/Pizzeria-App-in-React/service-worker.js",
+    "static/css/main.8df70aee.chunk.css.map": "/Pizzeria-App-in-React/static/css/main.8df70aee.chunk.css.map",
+    "static/js/2.7e9c049e.chunk.js.LICENSE.txt": "/Pizzeria-App-in-React/static/js/2.7e9c049e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f5f9ffc.js",
+    "static/js/runtime-main.c033a0ca.js",
     "static/js/2.7e9c049e.chunk.js",
     "static/css/main.8df70aee.chunk.css",
     "static/js/main.4c5f0357.chunk.js"
