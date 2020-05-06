@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Viga&display=swap');
+
+header {
+    padding: 20px;
+    max-width: 50%;
+    margin: 0 auto;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(65, 1, 1, 0.671);
+    color: white;
+    font-family: 'Viga', sans-serif;
+}
+
+header h2 {
+    padding: 10px;
+}

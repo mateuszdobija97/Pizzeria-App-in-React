@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 1200px;
+    background-image: url('https://cdn.pixabay.com/photo/2019/07/21/19/52/pizza-4353497_960_720.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
